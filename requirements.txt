@@ -1,0 +1,9 @@
+PyYAML
+pytest
+matplotlib
+numpy
+scipy
+pyqtgraph
+PyQt6
+sounddevice
+soundfile
